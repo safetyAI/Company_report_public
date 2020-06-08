@@ -15,5 +15,5 @@ Antoine J.-P., Tixier and Hallowell, Matthew R.
 Company Data Analysis Summary.
 *Safety AI technical report*.
 June 8, 2020.
-https://github.com/safetyAI/Company_report_public/blob/master/Company_report_public.pdf
+URL: https://github.com/safetyAI/Company_report_public/blob/master/Company_report_public.pdf
 
